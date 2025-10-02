@@ -1,0 +1,11 @@
+opencv-python
+cvzone
+mediapipe
+numpy
+tensorflow
+pyttsx3
+SpeechRecognition
+googletrans
+pytesseract
+Pillow
+pyautogui
