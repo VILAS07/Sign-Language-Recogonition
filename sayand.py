@@ -63,4 +63,9 @@ while True:
 
 # Release the webcam and close all windows
 cap.release()
-cv2.destroyAllWindows()
+import cv2
+import mediapipe as mp
+import numpy as np
+import pyautogui
+import screen_brightness_control as abc
+from math import hypot
