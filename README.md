@@ -1,6 +1,6 @@
 # Sign Language Detection System
 
-A real-time sign language detection and interpretation system using computer vision and machine learning.
+A real-time sign language detection and interpretation system using computer vision and machine learning using advanced AI integration
 
 ## Features
 - Real-time hand gesture detection
